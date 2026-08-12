@@ -258,9 +258,9 @@ A simple repository structure can be:
 ```text
 Gas-Detection-Arduino/
 │
+├── README.md
 ├── gas_detection_ard_mq7.ino
-├── circuit-diagram.png
-└── README.md
+└── gas_detection_mq7crkt.jpg
 ```
 
 
@@ -269,7 +269,7 @@ Gas-Detection-Arduino/
 A demonstration video showing the working of the gas detection system is available here:
 
 **Google Drive:**
-`https://drive.google.com/file/d/18kc9LfhMH2LUWyT1cwqHjWe7fn3J3Scq/view?usp=sharing`
+`https://drive.google.com/drive/folders/1d26j2Yh5p9xnoa4tWckn3i0uHhMlXRr9?usp=sharing`
 
 The video demonstrates the sensor readings, circuit operation, and activation of the LED and buzzer when the gas level crosses the configured threshold.
 
